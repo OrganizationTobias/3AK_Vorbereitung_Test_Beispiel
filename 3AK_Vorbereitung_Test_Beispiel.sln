@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3AK_Vorbereitung_Test_Beispiel", "3AK_Vorbereitung_Test_Beispiel\3AK_Vorbereitung_Test_Beispiel.csproj", "{CAF44313-0896-4218-A03D-3614ABF6A130}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CAF44313-0896-4218-A03D-3614ABF6A130}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAF44313-0896-4218-A03D-3614ABF6A130}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAF44313-0896-4218-A03D-3614ABF6A130}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAF44313-0896-4218-A03D-3614ABF6A130}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DA1319ED-8E06-4DBA-B4DF-F506AE6E32A0}
+	EndGlobalSection
+EndGlobal
